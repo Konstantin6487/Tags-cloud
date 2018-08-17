@@ -1,5 +1,7 @@
 # Tags Cloud
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/b28a33abe024c7d955a1/maintainability)](https://codeclimate.com/github/Konstantin6487/Tags-cloud/maintainability)
+
 ## Setup
 
 ```
