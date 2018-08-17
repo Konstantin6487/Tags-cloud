@@ -1,0 +1,21 @@
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+ul.tagsList {
+  font-size: 0;
+  text-align: center;
+}
+
+li.tagElem {
+  display: inline-block;
+  margin: 0px 10px;
+  text-align: center;
+}
+
+.tagElemLink:hover {
+  text-decoration: underline;
+  display: block;
+  transform: scale(1.01);
+}
